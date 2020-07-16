@@ -17,6 +17,9 @@ int main()
     c = calc.add(a,b);
   calc.printComplexNumber(c);
 
+  int numb = 0;
+
+
 
     cout << endl << "Subtract "<< endl;
     c = calc.subtract(a,b);
