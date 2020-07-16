@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592143809 source:c:\users\busisa\desktop\busi\main.cpp
+	"complexCalculator.h"
+	<iostream>
+	<fstream>
+
+1592144288 c:\users\busisa\desktop\busi\complexcalculator.h
+
